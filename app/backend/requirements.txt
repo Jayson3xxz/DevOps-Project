@@ -3,3 +3,5 @@ uvicorn[standard]
 pydantic
 langchain
 langchain-ollama
+langchain-mcp-adapters 
+langgraph
